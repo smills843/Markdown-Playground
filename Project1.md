@@ -19,4 +19,3 @@ Ornare dolor nulla penatibus porttitor phasellus consequat ante quis. Curae faci
 6. That's probable.
    - This is also a bullet.
 7. And another bullet??
-Delete everything I committed from VSCode. 
