@@ -21,3 +21,6 @@ Ornare dolor nulla penatibus porttitor phasellus consequat ante quis. Curae faci
 7. And another bullet??
 
 This is the content I want to add today so that I can see if I can add this to my github repository.
+
+![Test image](https://success.flosum.com/servlet/rtaImage?eid=ka0QQ0000002U6r&feoid=00N1P00000AA0On&refid=0EM1P000003S5D8)
+
